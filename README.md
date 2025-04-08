@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+!)](https://git.io/typing-svg)
 
-<!-- 프로필 방문자 수 뱃지 (선택 사항) -->
+<!-- 프로필 방문자 수 뱃지  -->
 ![Visitors](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 ### 👋 Hi, I'm song nanji!
