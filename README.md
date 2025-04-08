@@ -5,7 +5,7 @@
 <!-- 프로필 방문자 수 뱃지 (선택 사항) -->
 ![Visitors](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-# 👋 Hi, I'm song nanji!
+### 👋 Hi, I'm song nanji!
 
 
 ## 🚀 Skills
@@ -22,6 +22,6 @@
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=songnanji&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-songnanji&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songnanji&layout=compact&theme=tokyonight)
 
 ---
